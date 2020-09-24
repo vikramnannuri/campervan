@@ -1,0 +1,16 @@
+.app-container {
+  padding-top: 20px;
+}
+
+.list-item {
+  margin-bottom: 10px;
+}
+.list-image {
+  width: 100%;
+  height: auto;
+  border-radius: 5px;
+}
+
+.fa-star {
+  color: orange;
+}
